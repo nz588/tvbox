@@ -1292,10 +1292,10 @@
       "changeable": 1
     },
     {
-      "key": "乐视",
-      "name": "乐视",
+      "key": "快车",
+      "name": "快车",
       "type": 1,
-      "api": "https://leshiapi.com/api.php/provide/vod",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
       "searchable": 1,
       "changeable": 1
